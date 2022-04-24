@@ -3,7 +3,9 @@
 2. nsd33@njit.edu - Nikita Dubinin
 3. ajr72@njit.edu - Ashutosh Rana
 
-Colab notbook:  
+note: we did not use AWS everything was done in personal enviornments
+
+# Colab notbook: https://github.com/singhrajvinder/Cs_370_Reverse_Visual_Search/blob/main/Cs_370_Reverse_Visual_Search_All_In_One.ipynb
 
 # Documentation
 
