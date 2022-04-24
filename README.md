@@ -5,7 +5,7 @@
 
 note: we did not use AWS everything was done in personal enviornments
 
-# Colab notbook: https://github.com/singhrajvinder/Cs_370_Reverse_Visual_Search/blob/main/Cs_370_Reverse_Visual_Search_All_In_One.ipynb
+# Colab notbook: https://colab.research.google.com/drive/14mtHeGPtS3joTzohfolfTC4Dp50u_nl_?usp=sharing
 
 # Documentation
 
