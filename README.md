@@ -5,7 +5,7 @@
 
 note: we did not use AWS everything was done in personal enviornments
 
-# Colab notbook: https://colab.research.google.com/drive/14mtHeGPtS3joTzohfolfTC4Dp50u_nl_?usp=sharing
+# [Colab Notbook](https://github.com/dcm44/CS301_CryptoMiningML/blob/main/PROPOSAL.md)
 
 # Documentation
 
